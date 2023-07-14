@@ -1,5 +1,4 @@
 # MidBootcamp-Project-Crypto
-# Project Title
 
 Cryptocurrency Analysis
 
