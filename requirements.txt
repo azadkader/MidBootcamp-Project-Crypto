@@ -1,0 +1,13 @@
+pip install numpy
+pip install pandas
+pip install requests
+xcode-select --install
+brew install libxml2
+export CFLAGS="-I/usr/local/opt/libxml2/include"
+export LDFLAGS="-L/usr/local/opt/libxml2/lib"
+pip install lxml
+pip install yfinance
+pip install matplotlib
+pip install seaborn
+pip install statsmodels
+pip install datetime
